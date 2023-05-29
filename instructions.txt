@@ -1,0 +1,18 @@
+1-Create a project using create-react-app.
+2-Create UserList.js file in src folder
+3-Install axios.
+4-You gone to use jsonplaceholder API to get list of user 
+5-Use axios to Get data from Link inside useEffect hooks
+6-Use UseState hooks to save data into listOfUSer state 
+7-Map listOfUser to display list of user into screen 
+8-Style your App as you wish
+    user: [{
+        id: 1,
+        name: "ferst and last name",
+        username: "UserName",
+        email: "azert@serv.com",
+        address: "Street  Apt. Num  City zipcode 00000-0000",
+        phone: "1-770-736-8031 x56442",
+        website: "organisation.org",
+        company: "Compagny Name" 
+    }]
